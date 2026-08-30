@@ -78,7 +78,7 @@ Analyze resumes locally using a Large Language Model and provide structured cand
 Clone the repository
 
 ```bash
-git clone https://github.com/ThomaMart/talentflow-ai.git
+git clone https://github.com/Kestrall/talentflow-ai.git
 cd talentflow-ai
 ```
 
